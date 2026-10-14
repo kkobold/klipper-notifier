@@ -1,0 +1,10 @@
+{
+    "uuid": "klipper-notifier@kkobold",
+    "name": "Klipper Notifier",
+    "description": "One top bar icon per Klipper printer, showing its Moonraker state: ready, printing, paused, error or unreachable.",
+    "shell-version": [
+        "50"
+    ],
+    "settings-schema": "org.gnome.shell.extensions.klipper-notifier",
+    "url": "https://github.com/kkobold/klipper-notifier"
+}

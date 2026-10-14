@@ -1,0 +1,26 @@
+.klipper-notifier-progress {
+    padding-left: 4px;
+    font-feature-settings: "tnum";
+}
+
+.klipper-notifier-printing .klipper-notifier-icon,
+.klipper-notifier-printing .klipper-notifier-progress {
+    color: #62a0ea;
+}
+
+.klipper-notifier-paused .klipper-notifier-icon,
+.klipper-notifier-paused .klipper-notifier-progress {
+    color: #f6d32d;
+}
+
+.klipper-notifier-error .klipper-notifier-icon {
+    color: #ed333b;
+}
+
+.klipper-notifier-unreachable .klipper-notifier-icon {
+    color: #77767b;
+}
+
+.klipper-notifier-tooltip {
+    max-width: 480px;
+}

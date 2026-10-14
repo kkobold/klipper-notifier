@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.klipper-notifier" path="/org/gnome/shell/extensions/klipper-notifier/">
+    <key name="printers" type="s">
+      <default>'[]'</default>
+      <summary>Configured printers</summary>
+      <description>JSON array of {"id", "name", "url"} objects, in top bar order.</description>
+    </key>
+  </schema>
+</schemalist>
