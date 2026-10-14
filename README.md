@@ -32,7 +32,7 @@ GNOME Shell extension that puts one top bar icon per [Klipper](https://www.klipp
 
 ## Install
 
-From [extensions.gnome.org](https://extensions.gnome.org/), or from source:
+From [extensions.gnome.org](https://extensions.gnome.org/extension/11256/klipper-notifier/), or from source:
 
 ```sh
 git clone https://github.com/kkobold/klipper-notifier.git
