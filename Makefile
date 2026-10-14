@@ -15,7 +15,7 @@ uninstall:
 	rm -rf $(INSTALL_DIR)
 
 pack:
-	gnome-extensions pack --force --extra-source=moonraker.js --extra-source=icons .
+	gnome-extensions pack --force --extra-source=moonraker.js --extra-source=icons --extra-source=LICENSE .
 
 clean:
 	rm -f schemas/gschemas.compiled $(UUID).shell-extension.zip
